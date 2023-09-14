@@ -147,7 +147,3 @@ class Spark(LLM):
         return _param_dict
   
   
-if __name__ == "__main__":
-    llm = Spark(temperature=0.0)
-    result = llm("你叫什么名字？")
-    print(result)
