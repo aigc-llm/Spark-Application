@@ -1,3 +1,3 @@
-SPARK_APPID="5bda64f4"
-SPARK_API_KEY="9f4e4a0273f46abc042c61c64fd615da"
-SPARK_API_SECRET="0fa03e012fa1d4364845913af7ef325c"
+SPARK_APPID="********"
+SPARK_API_KEY="********************************"
+SPARK_API_SECRET="********************************"
