@@ -13,4 +13,4 @@
 
 4. 运行：python doc_translation.py，运行界面如下图所示：
 
-![image-20230914134232141](/Users/weisong/Library/Application Support/typora-user-images/image-20230914134232141.png)
+![interface](./assets/interface.png)
