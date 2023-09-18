@@ -13,7 +13,7 @@
 
 + pip install -r requirements.txt
 
-3. 进入 src 文件夹，修改 config.py 文件，填入自己的 **SPARK_APPID、SPARK_API_KEY 和 SPARK_API_SECRET**。、
+3. 进入 src 文件夹，修改 config.py 文件，填入自己的 **SPARK_APPID、SPARK_API_KEY 和 SPARK_API_SECRET**。
 
   密钥获取方式：
   
