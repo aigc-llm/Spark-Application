@@ -17,9 +17,9 @@
 
   密钥获取方式：
   
-	第一步：领取：https://xinghuo.xfyun.cn/sparkapi    在该页面点击“免费领取”按钮即可领取。
+	1. 领取：https://xinghuo.xfyun.cn/sparkapi    在该页面点击“免费领取”按钮即可领取。
  
-	第二步：复制密钥：https://console.xfyun.cn/services/bm2   在该页面可以查看并复制密钥信息。
+	2. 复制密钥：https://console.xfyun.cn/services/bm2   在该页面可以查看并复制密钥信息。
 
 5. 运行：python doc_translation.py，运行界面如下图所示：
 
