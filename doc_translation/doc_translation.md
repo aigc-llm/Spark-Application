@@ -13,8 +13,12 @@
 
 + pip install -r requirements.txt
 
-3. 进入 src 文件夹，修改 config.py 文件，填入自己的 **SPARK_APPID、SPARK_API_KEY 和 SPARK_API_SECRET**。
+3. 进入 src 文件夹，修改 config.py 文件，填入自己的 **SPARK_APPID、SPARK_API_KEY 和 SPARK_API_SECRET**。、
 
-4. 运行：python doc_translation.py，运行界面如下图所示：
+  密钥获取方式：
+	第一步：领取：https://xinghuo.xfyun.cn/sparkapi    在该页面点击“免费领取”按钮即可领取。
+	第二步：复制密钥：https://console.xfyun.cn/services/bm2   在该页面可以查看并复制密钥信息。
+
+5. 运行：python doc_translation.py，运行界面如下图所示：
 
 ![interface](./assets/interface.png)
